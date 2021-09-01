@@ -1,0 +1,11 @@
+title: 'Component Home Hero'
+fields:
+  -
+    handle: title
+    field:
+      input_type: text
+      antlers: false
+      display: Title
+      type: text
+      icon: text
+      listable: hidden
